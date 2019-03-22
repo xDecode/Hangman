@@ -1,0 +1,68 @@
+#container {
+    width: 920px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 70px;
+}
+
+body {
+    display: inline;
+}
+.richtig {
+    display : inline-block;
+    font-size : 35px;
+    color : black;
+    text-decoration : bold;
+    padding : 10px;
+    position : relative;
+    text-justify : inter-word;
+    margin-left : 2px;
+    box-sizing : 30px;
+    background-color : white;
+}
+.buttonclass {
+    display : inline-block;
+    font-size : 35px;
+    color : black;
+    text-decoration : bold;
+    padding : 10px;
+    position : relative;
+    text-justify : inter-word;
+    margin-left : 2px;
+    box-sizing : 30px;
+    background-color : lightblue;
+    
+}
+
+.buttonclass:hover {
+    background-color: lightblue;
+}
+
+.richtig:hover {
+    background-color: lightgreen;
+}
+
+#diesdas {
+    margin-left: auto;
+    margin-right: auto;
+    align-content: center;
+}
+
+#canvas {
+    border: 1px solid black;
+    position: relative;
+    margin-top: auto;
+}
+
+li {
+    font-size: 39px;
+}
+
+#relbutton {
+    font-size: 30px;
+    color: grey;
+    text-decoration: bold;
+    position: relative;
+    box-sizing: 30px;
+
+}

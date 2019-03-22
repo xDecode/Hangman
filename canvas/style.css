@@ -1,0 +1,7 @@
+body, html {
+    width: 100%;
+}
+#canvas {
+    border: 2px solid darkgray;
+    position: absolute;
+}
