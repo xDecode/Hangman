@@ -12,9 +12,8 @@ function reloadbutton() {
     relbutton.appendChild(text);
     relbutton.setAttribute('onclick', 'reloadbuttononclick()')
     buttoncontainerrel.appendChild(relbutton);
-    
 }
 
 function reloadbuttononclick() {
-   location.reload();
+    location.reload();
 }

@@ -8,30 +8,31 @@
 body {
     display: inline;
 }
+
 .richtig {
-    display : inline-block;
-    font-size : 35px;
-    color : black;
-    text-decoration : bold;
-    padding : 10px;
-    position : relative;
-    text-justify : inter-word;
-    margin-left : 2px;
-    box-sizing : 30px;
-    background-color : white;
+    display: inline-block;
+    font-size: 35px;
+    color: black;
+    text-decoration: bold;
+    padding: 10px;
+    position: relative;
+    text-justify: inter-word;
+    margin-left: 2px;
+    box-sizing: 30px;
+    background-color: white;
 }
+
 .buttonclass {
-    display : inline-block;
-    font-size : 35px;
-    color : black;
-    text-decoration : bold;
-    padding : 10px;
-    position : relative;
-    text-justify : inter-word;
-    margin-left : 2px;
-    box-sizing : 30px;
-    background-color : lightblue;
-    
+    display: inline-block;
+    font-size: 35px;
+    color: black;
+    text-decoration: bold;
+    padding: 10px;
+    position: relative;
+    text-justify: inter-word;
+    margin-left: 2px;
+    box-sizing: 30px;
+    background-color: lightblue;
 }
 
 .buttonclass:hover {
@@ -64,5 +65,4 @@ li {
     text-decoration: bold;
     position: relative;
     box-sizing: 30px;
-
 }
